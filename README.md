@@ -13,9 +13,9 @@ Movie_Website.py is a file to append or edit movie list, and to run the program.
 
 To use this project, you must have Python installed.
 
-1.Download the codes or clone the repository
-2.Open cmd and change directory to the folder
-3.Enter "python Movie_Website.py" to run the project
-4.Enjoy the website
+1.Download the codes or clone the repository   
+2.Open cmd and change directory to the folder   
+3.Enter "python Movie_Website.py" to run the project   
+4.Enjoy the website   
 
 The code is error free and follows PEP-8 Guidelines.(Except some inevitable url lenth)
