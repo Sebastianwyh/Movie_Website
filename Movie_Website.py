@@ -24,7 +24,7 @@ Nikita = media.TV_show(
 Scorpion = media.TV_show(
     "Scorpion", "The high IQ team helps DHS with defending attack.",
     "Season 1",
-    "https://s-media-cache-ak0.pinimg.com/originals/96/23/32/96233256645e445e7ab6c2775d80cba5.jpg", #NOQA
+    "https://s-media-cache-ak0.pinimg.com/originals/96/23/32/96233256645e445e7ab6c2775d80cba5.jpg",  # NOQA
     "https://www.youtube.com/watch?v=l4QFpheS_JQ")
 
 Sky_High = media.Movie(
@@ -34,12 +34,12 @@ Sky_High = media.Movie(
 
 El_bar = media.Movie(
     "El bar", "Who went our, who got killed",
-    "http://cinehorizontes.com/wp-content/uploads/el-bar-alex-de-la-iglesia-508x320.jpg",#NOQA
+    "http://cinehorizontes.com/wp-content/uploads/el-bar-alex-de-la-iglesia-508x320.jpg",  # NOQA
     "https://www.youtube.com/watch?v=PTazqyeYg3Y")
 
 She_is_the_Man = media.Movie(
     "She is the man", "Who says a girl cannot play football better than boys?",
-    "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/176148-L-LO.jpg",
+    "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/176148-L-LO.jpg",  # NOQA
     "https://www.youtube.com/watch?v=D4OhwrMidSU")
 
 # Put the videos in a variable
