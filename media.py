@@ -16,7 +16,6 @@ class Video():
         self.storyline = storyline
 
 
-
 class Movie(Video):
     """
     Inherit variables from class Video
@@ -32,13 +31,13 @@ class Movie(Video):
         self.trailer_youtube_url = trailer_youtube
 
 
-
 class TV_show(Video):
     """
     Inherit variables from class Video
     Append some TV show elements
     """
-    def __init__(self, title, storyline, season, poster_image, trailer_youtube):
+    def __init__(
+                self, title, storyline, season, poster_image, trailer_youtube):
         """
         Initialize class TV_show() when called
         And store info to the variables
