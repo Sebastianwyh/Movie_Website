@@ -39,7 +39,7 @@ El_bar = media.Movie(
 
 She_is_the_Man = media.Movie(
     "She is the man", "Who says a girl cannot play football better than boys?",
-    "https://www.jbhifi.com.au/FileLibrary/ProductResources/Images/176148-L-LO.jpg",  # NOQA
+    "https://images-na.ssl-images-amazon.com/images/I/51Tp79i4HoL._SY445_.jpg",  # NOQA
     "https://www.youtube.com/watch?v=D4OhwrMidSU")
 
 # Put the videos in a variable
